@@ -1,0 +1,2 @@
+This is a "Modernist-css-grid" and it is another CSS grid experiment.
+This design is pulled off by painting with pixels. Each frame of this 10 X 6 grid is made with blue, two shades, and pink div blocks.
